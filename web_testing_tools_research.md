@@ -4,28 +4,28 @@
 
 _What is the name of the test tool?_ 
 
-Tool Name
+SoapUI (Now named ReadyAPI)
 
 _What company developed this test tool?_ 
 
-Company Name
+SmartBear Software
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Test can be stored for later reuse.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+No.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Works with web-based tools, languages are JavaScript and Groovy
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Functional Testing
+* Load and compliance testing
+* Web service inspection.
 
 ## Tool Two
 

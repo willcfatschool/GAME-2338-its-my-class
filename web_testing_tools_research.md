@@ -31,52 +31,55 @@ Works with web-based tools, languages are JavaScript and Groovy
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Lambdatest
 
 _What company developed this test tool?_ 
 
-Company Name
+(Same thing) Lambdatest
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+It does. Languages support include Java, PHP, Ruby, C#, Python, Java Script
+(from this website: https://www.lambdatest.com/support/docs/supported-languages-and-frameworks/ )
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* "Faster Automated Screenshots", says it can preform cross browser compatibility testing easily.
+* Responsive Testing
+* Integrates with tools, like bug logging, project management tool that allows you to log issues instantly.
 
 ## Tool Three
 
 _What is the name of the test tool?_ 
 
-Tool Name
+ZapTest
 
 _What company developed this test tool?_ 
 
-Company Name
+ZapTest
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+It does, supports JavaScript
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* API Testing (Supports SOAP, REST, WSDL, WADL, XML, JSON and more)
+* LOAD function allows test with whole API server infrastructures.
+* Develop Test Documentation with one click
+
+(from https://www.zaptest.com/about)

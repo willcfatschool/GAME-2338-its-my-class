@@ -57,6 +57,12 @@ The only real issues I had was with the audio, funny enough. I'm not sure why th
 if you launch the game with too many things open in the background; the audio distorts like hell. Play the game with almost nothing else open for this issue to not show.
 Otherwise, good game. Will kept listening to the shopkeeper sing with the songs.
 
+Small update: If you're having audio suttery issues, the following solution works (from the FAQ page)
+
+"I get a weird stuttery audio problem on Windows.
+
+Navigate to the game’s Steam install folder and open the audio.txt file. Try editing it to change the numbers from “1024 2 0 0” to “1024 4 0 0” or “1024 4 -1 0” or “1024 4 -1 1”. (Try the first set of numbers first, then run the game. If that doesn’t help, try the second set, etc.) Make sure that each of these four numbers is on its own line in the text file."
+
 ## Additional Information
 
 The CotND Wiki (For information about the game I had forgotten fully): https://crypt-of-the-necrodancer.fandom.com/wiki/Crypt_of_the_NecroDancer_Wiki

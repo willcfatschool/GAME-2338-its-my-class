@@ -34,6 +34,7 @@ Items are includes, the pools of such are:
 
 Rings (Random bonus effects for the player)
 Armor (Various Damage reduction plus a modifier if it includes one)
+Feet (Some bonuses buit mainly enviormental protection)
 Torches (Player can see farther)
 Shovel (Strength of the shovel)
 Magic (Spells that help the player in certain situations.)
@@ -46,6 +47,7 @@ So how does the game look? Where?
 There are 5 zones in the game, with three stages in them following a boss.
 The player starts off with a few items. A dagger for one damage, a shovel to dig around basic dirt, and one bomb.
 Its not much, but once the player gets a hang of it the skill gap dwindles quickly. Its something anyone can pick up.
+Main thing though, play fast, as once the song is over you're forced to the next level. You'll notice when the notes turn red.
 
 ## Final Thoughts
 
